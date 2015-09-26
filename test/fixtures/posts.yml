@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  content: MyText
+  scheduled_at: 2015-09-26 14:13:44
+  state: MyString
+  user_id: 1
+  facebook: false
+  twitter: false
+
+two:
+  content: MyText
+  scheduled_at: 2015-09-26 14:13:44
+  state: MyString
+  user_id: 1
+  facebook: false
+  twitter: false

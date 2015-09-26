@@ -38,6 +38,9 @@ gem 'devise', '~> 3.5.1'
 gem 'omniauth-twitter', '~> 1.2.1'
 gem 'omniauth-facebook', '~> 2.0.1'
 gem 'validates_timeliness', '~> 3.0.14'
+gem 'momentjs-rails', '~> 2.10.3'
+gem 'font-awesome-rails', '~> 4.4.0.0'
+gem "datetimepicker-rails", github: "zpaulovics/datetimepicker-rails", branch: "master", submodules: true
 
 group :development do
   gem 'dotenv-rails', '~> 2.0.2'

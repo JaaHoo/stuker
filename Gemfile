@@ -37,6 +37,7 @@ gem 'simple_form', '~> 3.1.0'
 gem 'devise', '~> 3.5.1'
 gem 'omniauth-twitter', '~> 1.2.1'
 gem 'omniauth-facebook', '~> 2.0.1'
+gem 'validates_timeliness', '~> 3.0.14'
 
 group :development do
   gem 'dotenv-rails', '~> 2.0.2'

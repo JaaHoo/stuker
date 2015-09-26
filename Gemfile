@@ -36,6 +36,10 @@ gem 'font-awesome-sass', '~> 4.3.2.1'
 gem 'simple_form', '~> 3.1.0'
 gem 'devise', '~> 3.5.1'
 
+group :development do
+  gem 'dotenv-rails', '~> 2.0.2'
+end
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'

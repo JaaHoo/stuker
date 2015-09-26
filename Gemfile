@@ -43,6 +43,8 @@ gem 'font-awesome-rails', '~> 4.4.0.0'
 gem "datetimepicker-rails", github: "zpaulovics/datetimepicker-rails", branch: "master", submodules: true
 gem 'twitter', '~> 5.15.0'
 gem 'koala', '~> 2.2.0'
+gem 'delayed_job_active_record', '~> 4.1.0'
+gem 'delayed-web', github: "thebestday/delayed-web"
 
 group :development do
   gem 'dotenv-rails', '~> 2.0.2'

@@ -41,6 +41,8 @@ gem 'validates_timeliness', '~> 3.0.14'
 gem 'momentjs-rails', '~> 2.10.3'
 gem 'font-awesome-rails', '~> 4.4.0.0'
 gem "datetimepicker-rails", github: "zpaulovics/datetimepicker-rails", branch: "master", submodules: true
+gem 'twitter', '~> 5.15.0'
+gem 'koala', '~> 2.2.0'
 
 group :development do
   gem 'dotenv-rails', '~> 2.0.2'
